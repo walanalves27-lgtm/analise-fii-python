@@ -1,2 +1,2 @@
 # analise-fii-python
-Este projeto foi desenvolvido com o objetivo de aplicar na prática conhecimentos em Python, análise de dados e automação, utilizando relatórios gerenciais de Fundos Imobiliários (FIIs).
+O sistema gera automaticamente um ranking dos FIIs com base em critérios objetivos e apresenta explicações detalhadas para cada indicador, além de exportar os resultados para Excel.
