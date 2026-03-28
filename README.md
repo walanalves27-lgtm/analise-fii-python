@@ -1,6 +1,5 @@
 # analise-fii-python
-O sistema gera automaticamente um ranking dos FIIs com base em critérios objetivos e apresenta explicações detalhadas para cada indicador, além de exportar os resultados para Excel.
-
+O sistema realiza a coleta automática de dados de Fundos Imobiliários (FIIs), aplica critérios objetivos de análise e gera um ranking com explicações detalhadas para cada indicador, além de permitir a exportação dos resultados para Excel.
 # Caderno Temático: Análise de Fundos Imobiliários (FIIs) com IA
 
 ---
