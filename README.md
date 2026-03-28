@@ -16,15 +16,28 @@ A ideia principal foi criar um material estruturado que permita:
 - Apoiar a tomada de decisão de investimento
 - Desenvolver pensamento crítico com auxílio de IA
 
-## Curadoria de Fontes
+## Curadoria de Fontes (NotebookLM)
 
-As seguintes fontes foram utilizadas como base de estudo:
+Para a construção deste caderno temático, foram utilizadas as seguintes fontes, que foram inseridas no NotebookLM para análise com IA:
 
-1. https://www.fundamentus.com.br/fii_resultado.php  
-2. Relatórios gerenciais de FIIs (ex: MXRF11)  
-3. https://www.b3.com.br  
-4. https://statusinvest.com.br/fundos-imobiliarios  
-5. Conteúdos educacionais sobre FIIs (artigos e PDFs)
+1. Fundamentus - Lista de FIIs  
+   - Link: https://www.fundamentus.com.br/fii_resultado.php  
+   - Tipo: Página Web  
+   - Conteúdo: Indicadores como P/VP, liquidez e vacância  
+
+2. Status Invest - Fundos Imobiliários  
+   - Link: https://statusinvest.com.br/fundos-imobiliarios  
+   - Tipo: Página Web  
+   - Conteúdo: Dados complementares e comparativos de FIIs  
+
+3. B3 - Bolsa de Valores do Brasil  
+   - Link: https://www.b3.com.br  
+   - Tipo: Página Web  
+   - Conteúdo: Informações institucionais e funcionamento dos FIIs  
+
+4. Artigos Educacionais sobre FIIs  
+   - Tipo: Texto/PDF  
+   - Conteúdo: Conceitos básicos e estratégias de investimento
 
 ## Engenharia de Prompts e "Cicatrizes"
 
